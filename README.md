@@ -1,0 +1,2 @@
+# PyStructuralDecompose
+Time series decomposition 
